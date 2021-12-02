@@ -1,0 +1,9 @@
+INSTALAR PYTHON
+pip install pandas
+
+pip install folium
+
+pip install pycopy-webbrowser
+#si da error entonces python -m webbrowser -t "https://www.python.org"
+
+pip install openpyxl
